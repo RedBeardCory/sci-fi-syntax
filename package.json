@@ -2,12 +2,12 @@
   "name": "sci-fi-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A sci-fi kind of theme for atom",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/sci-fi-syntax",
+  "repository": "https://github.com/RedBeardCory/sci-fi-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
